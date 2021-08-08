@@ -1,7 +1,7 @@
 {
   "name": "simple-quiz-1",
   "version": "1.0.0",
-  "description": "NodeJS CLI for quiz",
+  "description": "A NodeJS CLI for quiz with stored Score Board",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
