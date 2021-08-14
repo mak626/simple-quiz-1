@@ -9,6 +9,7 @@ let questionAnswer = [
     question: "Who is current Prime Minister Of India (Full Name)",
     answer: "narendra modi",
   },
+  { question: 'Who is current President Of USA (Full Name)', answer: 'joe biden' },
 ];
 
 let score,
